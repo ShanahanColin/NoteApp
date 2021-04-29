@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background-color: #E4E9FD;
+  background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+  min-height: 1000px;
+  font-family: 'helvetica neue';
+}
+
+.pos {
+  padding-top: 10%
+}
+
+#b-button{
+  background-color: rgba(220, 0, 0, .1);
+  padding: 10% 25% 10% 25%;
+  border-radius:25% ;
+}
+
+#b-button:hover{
+  background-color: rgba(255, 0, 0, .1);
+}
